@@ -1,0 +1,27 @@
+body{
+width:500px;
+margin:auto;
+text-align:center;
+}
+
+li{
+list-style:none;
+}
+
+li.fields{
+margin:0;
+padding 1em 0;
+}
+
+li.title{
+cursor: pointer;
+
+font-weigth:bold;
+font-size:1.5em;
+line-height:2em;
+background:#6699cc;
+border-bottom:1px solid #666666;
+border-top:1px solid white;
+}
+
+.hide{display: none;}
